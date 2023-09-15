@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Sacred Whitefox -->
+  <Whitefox.label>Чудолисичка</Whitefox.label>
+  <!-- EN: This fox with a warm whitish hue like silk, has a charm that can be worshipped as a god. There is speculation that the unique intelligence of the individual may have passed beyond human beings. -->
+  <Whitefox.description>Чудолисички - древние и загадочные существа, в своей древности, вероятно, способны посоперничать даже с Трумбо. Вероятно они появились вследствии применения архотеками генетических технологий, но доказать это утверждение уже никто не сможет. Зверюшка обладает шелковистым мехом и была настолько чарующей и загадочной, что местные племена почитали её как божество. Многие утверждали, что наблюдали проявления интеллектуальных способностей этого зверя не свойственных представителям его вида.</Whitefox.description>
+  <!-- EN: left claw -->
+  <Whitefox.tools.left_claw.label>лисьи коготки</Whitefox.tools.left_claw.label>
+  <!-- EN: Right claw -->
+  <Whitefox.tools.Right_claw.label>лисьи коготки</Whitefox.tools.Right_claw.label>
+  <!-- EN: Tail -->
+  <Whitefox.tools.Tail.label>чудо-хвостик</Whitefox.tools.Tail.label>
+  
+</LanguageData>

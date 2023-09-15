@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Whitefox fur -->
+  <Leather_Whitefox.label>чудо-мех</Leather_Whitefox.label>
+  <!-- EN: It is difficult to pierce and insulates well against heat. -->
+  <Leather_Whitefox.description>Этот мех чудолисички очень трудно проколоть, а ещё он неплохо изолирует.</Leather_Whitefox.description>
+  <Leather_Whitefox.stuffProps.stuffAdjective>чудо-меха</Leather_Whitefox.stuffProps.stuffAdjective>
+  
+  <!-- EN: Sacred WhiteFox Wool -->
+  <WhitefoxWool.label>чудо-шерсть</WhitefoxWool.label>
+  <!-- EN: The Wool of a sacred white fox is usually softer and warmer than the fur of other animals. -->
+  <WhitefoxWool.description>Шерсть чудолисички мягче и теплее, чем у других животных.</WhitefoxWool.description>
+  <WhitefoxWool.stuffProps.stuffAdjective>чудо-шерсти</WhitefoxWool.stuffProps.stuffAdjective>
+  
+</LanguageData>

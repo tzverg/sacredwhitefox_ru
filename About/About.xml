@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Sacred WhiteFox [RUS]</name>
+	<author>TzverG</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>TzverG.Bichang.WhiteFox.Ru</packageId>
+	<description>Обычный перевод для личного пользования.\n\nОригинальное описание:\nДобавлено одно животное (волшебная лиса).Я лично нарисовал картинку и добавил ее.\n\nСтатистика:\nСтоимость : 1750\nРазмер : 0.9\nШкала здоровья : 2.5\nДикость : 75%\nТемпература : -70 ~ +30\nСкорость : 7.14 кл.с\nВозраст : максимальный 60 (0 ~ щенок ~ 2,5 ~ подросший ~ 7,5 ~ взрослый)\nШерсть : интервал 25 дней, количество x50\nТип питания : Всеядный\n\nОчень низкая вероятность появления в холодном или умеренном климате.\n\nСовместимость:\n- A Dog Said\n- Animal Gear\n- Combat Extended\n- HardCore SK\n\nДополнение описания от автора перевода:\nПеревод  наименования данного животного вольно интерпретировано мной как "Чудолисичка". Добавляет в игру уникальное животное вдохновлённое непревзойдёнными трумбо. Лисички весьма умны, имеют возможность переносить вещи, в том числе и в караванах. С них можно остригать шерсть, а так-же они обладают уникальным мехом. Очень приветливы к вашим пешкам и будут часто ласкаться, имеют отдельную текстурку для режима сна. Они вам понравятся х)
+	</description>
+	<modDependencies>
+		<li>
+			<packageId>Bichang.WhiteFox</packageId>
+			<displayName>Sacred WhiteFox</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1612303131</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Bichang.WhiteFox</li>
+	</loadAfter>
+</ModMetaData>

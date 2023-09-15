@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Sacred Whitefox -->
+  <Whitefox.label>Чудолис</Whitefox.label>
+  <Whitefox.labelFemale>Чудолиса</Whitefox.labelFemale>
+  <Whitefox.labelFemalePlural>Чудолисы</Whitefox.labelFemalePlural>
+  <Whitefox.labelMale>Чудолис</Whitefox.labelMale>
+  <Whitefox.labelMalePlural>Чудолисы</Whitefox.labelMalePlural>
+  <Whitefox.labelPlural>Чудолисы</Whitefox.labelPlural>
+  <!-- EN: Sacred Whitefox puppy -->
+  <Whitefox.lifeStages.Sacred_Whitefox_puppy.label>Чудолисёнок</Whitefox.lifeStages.Sacred_Whitefox_puppy.label>
+  <Whitefox.lifeStages.Sacred_Whitefox_puppy.labelFemale>Чудолисичка</Whitefox.lifeStages.Sacred_Whitefox_puppy.labelFemale>
+  <Whitefox.lifeStages.Sacred_Whitefox_puppy.labelFemalePlural>Чудолисички</Whitefox.lifeStages.Sacred_Whitefox_puppy.labelFemalePlural>
+  <Whitefox.lifeStages.Sacred_Whitefox_puppy.labelMale>Чудолисёнок</Whitefox.lifeStages.Sacred_Whitefox_puppy.labelMale>
+  <Whitefox.lifeStages.Sacred_Whitefox_puppy.labelMalePlural>Чудолисёнки</Whitefox.lifeStages.Sacred_Whitefox_puppy.labelMalePlural>
+  <Whitefox.lifeStages.Sacred_Whitefox_puppy.labelPlural>Чудолисички</Whitefox.lifeStages.Sacred_Whitefox_puppy.labelPlural>
+  <!-- EN: Sacred Whitefox puppies -->
+  <Whitefox.lifeStages.1.label>Чудолисик</Whitefox.lifeStages.1.label>
+  <Whitefox.lifeStages.1.labelFemale>Чудолиська</Whitefox.lifeStages.1.labelFemale>
+  <Whitefox.lifeStages.1.labelFemalePlural>Чудолиськи</Whitefox.lifeStages.1.labelFemalePlural>
+  <Whitefox.lifeStages.1.labelMale>Чудолисик</Whitefox.lifeStages.1.labelMale>
+  <Whitefox.lifeStages.1.labelMalePlural>Чудолиськи</Whitefox.lifeStages.1.labelMalePlural>
+  <Whitefox.lifeStages.1.labelPlural>Чудолиськи</Whitefox.lifeStages.1.labelPlural>
+  <Whitefox.lifeStages.2.label>Чудолис</Whitefox.lifeStages.2.label>
+  <Whitefox.lifeStages.2.labelFemale>Чудолиса</Whitefox.lifeStages.2.labelFemale>
+  <Whitefox.lifeStages.2.labelFemalePlural>Чудолисы</Whitefox.lifeStages.2.labelFemalePlural>
+  <Whitefox.lifeStages.2.labelMale>Чудолис</Whitefox.lifeStages.2.labelMale>
+  <Whitefox.lifeStages.2.labelMalePlural>Чудолисы</Whitefox.lifeStages.2.labelMalePlural>
+  <Whitefox.lifeStages.2.labelPlural>Чудолисы</Whitefox.lifeStages.2.labelPlural>
+  
+</LanguageData>

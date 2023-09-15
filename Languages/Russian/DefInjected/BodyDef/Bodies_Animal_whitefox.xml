@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWhitefox.label>четвероногое животное</QuadrupedAnimalWhitefox.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWhitefox.corePart.parts.left_lung.customLabel>левое лисье лёгкое</QuadrupedAnimalWhitefox.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWhitefox.corePart.parts.right_lung.customLabel>правое лисье лёгкое</QuadrupedAnimalWhitefox.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWhitefox.corePart.parts.left_kidney.customLabel>левая лисья почка</QuadrupedAnimalWhitefox.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWhitefox.corePart.parts.right_kidney.customLabel>правая лисье почка</QuadrupedAnimalWhitefox.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWhitefox.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>левый лисий глаз</QuadrupedAnimalWhitefox.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWhitefox.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>правый лисий глаз</QuadrupedAnimalWhitefox.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWhitefox.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>левое лисье ушко</QuadrupedAnimalWhitefox.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWhitefox.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>правое лисье ушко</QuadrupedAnimalWhitefox.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWhitefox.corePart.parts.front_left_leg.customLabel>передняя левая лисья лапка</QuadrupedAnimalWhitefox.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left paw -->
+  <QuadrupedAnimalWhitefox.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>коготки передней левой лапки</QuadrupedAnimalWhitefox.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWhitefox.corePart.parts.front_right_leg.customLabel>передняя правая лисья лапка</QuadrupedAnimalWhitefox.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right paw -->
+  <QuadrupedAnimalWhitefox.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>коготки передней правой лапки</QuadrupedAnimalWhitefox.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWhitefox.corePart.parts.rear_left_leg.customLabel>задняя левая лисья лапка</QuadrupedAnimalWhitefox.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left paw -->
+  <QuadrupedAnimalWhitefox.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>коготки задней левой лапки</QuadrupedAnimalWhitefox.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWhitefox.corePart.parts.rear_right_leg.customLabel>задняя правая лисья лапка</QuadrupedAnimalWhitefox.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right paw -->
+  <QuadrupedAnimalWhitefox.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>коготки задней правой лапки</QuadrupedAnimalWhitefox.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  
+</LanguageData>

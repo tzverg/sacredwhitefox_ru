@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Apparel_Whitefoxcloth.label>чудо-сбруя</Apparel_Whitefoxcloth.label>
+  <Apparel_Whitefoxcloth.description>Эта экипировка облегает тело взрослой чудолисичики и повышает её устойчивость к перепадам температур.</Apparel_Whitefoxcloth.description>
+  <!-- EN: Sacred WhiteFox Tail -->
+  <WhitefoxTail.label>чудо-хвостик</WhitefoxTail.label>
+  <!-- EN: This is Sacred WhiteFox Tail. It can sell at a high price. -->
+  <WhitefoxTail.description>Это хвостик взрослой чудолисички. Не желаю знать как он попал к вам без самой лисички в комплекте. Он может быть продан за высокую цену.</WhitefoxTail.description>
+  
+  <!-- UNUSED -->
+  <WhitefoxTail.tools.0.label>не используется?</WhitefoxTail.tools.0.label>
+  
+</LanguageData>
